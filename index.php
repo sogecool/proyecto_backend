@@ -30,9 +30,9 @@
         <ul>
             <!-- TODAS LAS PRÁCTICAS Y TAREAS DE LA UNIDAD 2 -->
             <li><a href="unidad_2/U2.A1.1_PrácticaIF.php">ACTIVIDAD 1 -> USO DE IF, FOR & VECTORES: PRÁCTICA IF</a></li>
-            <li><a href="unidad_2/U2.A1.2_PrácticaFOR.php">ACTIVIDAD 1 -> USO DE IF, FOR & VECTORES: PRÁCTICA FOR</a></li>
+            <li> <a href="unidad_2/U2.A1.2_PrácticaFOR.php">ACTIVIDAD 1 -> USO DE IF, FOR & VECTORES: PRÁCTICA FOR</a></li>
             <li> <a href="unidad_2/U2.A1.3_PrácticaVectores.php">ACTIVIDAD 1 -> USO DE IF, FOR & VECTORES: PRÁCTICA DE VECTORES</a></li>
-            <li> <a href="unidad_2/U2.A2_POST_GET_SERVER.php">ACTIVIDAD 2 -> MÉTODO POST, GET & SERVER</li>
+            <li> <a href="unidad_2/U2.A2_POST_GET_SERVER.php">ACTIVIDAD 2 -> MÉTODO POST, GET & SERVER</a></li>
             <li> <a href="unidad_2/U2.A3.1_Práctica_1_al_10.php">ACTIVIDAD 3 -> ESTRUCTURAS DE CONTROL: PRINT DEL 1 AL 10</a></li>
             <li> <a href="unidad_2/U2.A3.2_Práctica_PAR_o_IMPAR.php">ACTIVIDAD 3 -> ESTRUCTURAS DE CONTROL: PAR O IMPAR</a></li>
             <li> <a href="unidad_2/U2.A3.3_PrácticaWHILE.php">ACTIVIDAD 3 -> ESTRUCTURAS DE CONTROL: PRÁCTICA WHILE</a></li>
