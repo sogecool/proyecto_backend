@@ -52,6 +52,11 @@
             <li><a href="unidad_3/U3.A1_Formulario.php">ACTIVIDAD 1 -> FORMULARIO</a></li>
             <li><a href="unidad_3/U3.A2_FormularioRegistro.php">ACTIVIDAD 2 -> FORMULARIO - REGISTRO</a></li>
             <li><a href="unidad_3/U3.A3_POO.php">ACTIVIDAD 3 -> INVESTIGACIÓN POO</a></li>
+            <li><a href="unidad_3/U3.A4_POO_2.php">ACTIVIDAD 4 -> INVESTIGACIÓN POO 2</a></li>
+            <li><a href="unidad_3/U3.A5_Archivos.php">ACTIVIDAD 5 -> INVESTIGACIÓN DE ARCHIVOS</a></li>
+            <li><a href="unidad_3/U3.A6.1_Leer_Textos.php">ACTIVIDAD 6 -> LEER & MOSTRAR TEXTO EN PHP </a></li>
+            <li><a href="unidad_3/U3.A6.2_Programa_Formulario.php">ACTIVIDAD 6 -> PROGRAMA PARA MOSTARAR FORMULARIO</a></li>
+            <li><a href="unidad_3/U3.A6.3_Descargar_PDF.php">ACTIVIDAD 6 -> PROGRAMA PARA DESCARGAR PDF</a></li>
             <!-- Añade más enlaces según sea necesario -->
         </ul>
     </div>
