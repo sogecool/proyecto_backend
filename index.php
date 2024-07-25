@@ -54,11 +54,21 @@
             <li><a href="unidad_3/U3.A3_POO.php">ACTIVIDAD 3 -> INVESTIGACIÓN POO</a></li>
             <li><a href="unidad_3/U3.A4_POO_2.php">ACTIVIDAD 4 -> INVESTIGACIÓN POO 2</a></li>
             <li><a href="unidad_3/U3.A5_Archivos.php">ACTIVIDAD 5 -> INVESTIGACIÓN DE ARCHIVOS</a></li>
-            <li><a href="unidad_3/U3.A6.1_Leer_Textos.php">ACTIVIDAD 6 -> LEER & MOSTRAR TEXTO EN PHP </a></li>
-            <li><a href="unidad_3/U3.A6.2_Programa_Formulario.php">ACTIVIDAD 6 -> PROGRAMA PARA MOSTARAR FORMULARIO</a></li>
-            <li><a href="unidad_3/U3.A6.3_Descargar_PDF.php">ACTIVIDAD 6 -> PROGRAMA PARA DESCARGAR PDF</a></li>
             <!-- Añade más enlaces según sea necesario -->
         </ul>
+    </div>
+
+    <div class="unidad">
+        <h2>Unidad 4</h2>
+        <ul>
+            <!-- TODAS LAS PRÁCTICAS Y TAREAS DE LA UNIDAD 4 -->
+            <li><a href="unidad_4/U4.A1.1_Leer_Textos.php">ACTIVIDAD 1 -> MANEJO DE ARCHIVOS - LEER & MOSTRAR TEXTO EN PHP </a></li>
+            <li><a href="unidad_4/U4.A1.2_Programa_Formulario.php">ACTIVIDAD 1 -> MANEJO DE ARCHIVOS - PROGRAMA PARA MOSTARAR FORMULARIO</a></li>
+            <li><a href="unidad_4/U4.A1.3_Descargar_PDF.php">ACTIVIDAD 1 -> MANEJO DE ARCHIVOS - PROGRAMA PARA DESCARGAR PDF</a></li>
+            <li><a href="unidad_4/U4.A2_ERRORES_TRY_CATCH.php">ACTIVIDAD 2 -> ERRORES, TRY & CATCH</a></li>
+            <li><a href="unidad_4/U4.A3_Base_de_Datos.php">ACTIVIDAD 3 -> INVESTIGACIÓN BASE DE DATOS</a></li>
+        </ul>
+
     </div>
 
 </body>
