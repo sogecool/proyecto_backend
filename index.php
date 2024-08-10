@@ -67,6 +67,8 @@
             <li><a href="unidad_4/U4.A1.3_Descargar_PDF.php">ACTIVIDAD 1 -> MANEJO DE ARCHIVOS - PROGRAMA PARA DESCARGAR PDF</a></li>
             <li><a href="unidad_4/U4.A2_ERRORES_TRY_CATCH.php">ACTIVIDAD 2 -> ERRORES, TRY & CATCH</a></li>
             <li><a href="unidad_4/U4.A3_Base_de_Datos.php">ACTIVIDAD 3 -> INVESTIGACIÓN BASE DE DATOS</a></li>
+            <li><a href="unidad_4/U4.A4_Registro_Alumnos.php">ACTIVIDAD 4 -> REGISTRO DE ALUMNOS</a></li>
+            <li><a href="unidad_4/U4.A5_Práctica_Crud.php">ACTIVIDAD 5 -> PRÁCTICA CRUDS</a></li>
         </ul>
 
     </div>
